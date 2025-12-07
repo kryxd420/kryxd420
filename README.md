@@ -1,6 +1,4 @@
-## 👋 Hi there! I'm Kryx.
-
-[![Kryx's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryxd420)](https://github.com/anuraghazra/github-readme-stats)
+## 👋 Hi there! 
 
 # About Me
 
