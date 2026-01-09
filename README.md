@@ -3,7 +3,7 @@
 ## About Me
 
 Hey! i'm Kryx, but you can also find me on some sites like "Canopy", im a technology student and enthusiast from Spain, i enjoy messing with servers and hacking with a little bit of programming, i enjoy doing random things in general and starting projects and things i
-never finish because i get anxiety or i get lazy, i would love to start new things but my diagnosed but not medicated ADHD doesnt feel the same way.
+never finish because i get anxiety or i get lazy, i would love to start new things but my diagnosed but not medicated ADHD doesn’t feel the same way.
 I also love music and fashion, some of my favorite artist include: Weiland, Lil Peep, 6 dogs, Ken Carson and Yeat, and about fashion i like Vetements (only the gvasalia era) and Balenciaga.
 
 if you wanna find more about me you can check [my website](https://kryx.dev)
